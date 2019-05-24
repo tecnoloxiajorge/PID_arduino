@@ -1,2 +1,3 @@
-# PID_arduino
-PID arduino
+# PID con Arduino
+Control de barra y bola con Arduino
+Jorge Gómez
